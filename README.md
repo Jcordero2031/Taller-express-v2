@@ -4,6 +4,8 @@
 
 ## 8:00am - 8:30am!
 
+Deploy: https://taller-xpress.vercel.app/
+
 ### Generar 1 endpoint de autenticación (/login):
 
 - [200] {Token: "Token ..."}
